@@ -30,6 +30,12 @@ twitter_username: jekyllrb
 github_username:  conniichan
 remote_theme: "mmistakes/minimal-mistakes"
 
+author:
+  name   : "Your Name"
+  avatar : "/assets/images/profilepicture.jpg" 
+  bio    : "Just another curious, project-building, STEM-loving human."
+  location : "Bay Area, CA"
+
 # Build settings
 plugins:
   - jekyll-feed
